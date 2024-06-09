@@ -26,11 +26,11 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 The following animation shows the web application's appearance and functionality:
 
-![Animation shows input of employees to an employee payroll tracker.](assets/images/employee-payroll-tracker.gif)
+![Animation shows input of employees to an employee payroll tracker.](./Assets/images/employee-payroll-tracker.gif)
 
 This image displays the information logged in the console.
 
-![Shows employee information in the console of an employee payroll tracker.](assets/images/console.png)
+![Shows employee information in the console of an employee payroll tracker.](./Assets/images/console.png)
 
 ## License
 

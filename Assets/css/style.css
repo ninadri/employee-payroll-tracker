@@ -115,6 +115,7 @@ button[disabled] {
   float: right;
 }
 
+/* Responsive design for small/ medium devices */
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
@@ -123,6 +124,7 @@ button[disabled] {
   }
 }
 
+/* Responsive design for smartphones */
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;

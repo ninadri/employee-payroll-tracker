@@ -38,4 +38,4 @@ MIT License
 
 ---
 
-© Adriana Nino. [Github Repo](https://github.com/ninadri/employee-payroll-tracker).
+© Adriana Nino. [Github Repo](https://github.com/ninadri/employee-payroll-tracker). [Employee Payroll Tracker Site](https://ninadri.github.io/employee-payroll-tracker/).

@@ -22,7 +22,9 @@ WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 ```
 
-## Mock-Up
+## Usage
+
+When the user selects the 'Add Employee' button, they will be prompted to enter the employee's name and salary. They will also be asked if they would like to add another employee. If they do not wish to add another, they can select 'Cancel'. The entered employee information will then be displayed on the page.
 
 The following animation shows the web application's appearance and functionality:
 
